@@ -1,8 +1,8 @@
-
+import loginpage from "./Pages/loginpage";
 
 function App() {
   return (
-    <div></div>
+    <loginpage />
   );
 }
 
